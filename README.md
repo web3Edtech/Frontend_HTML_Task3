@@ -1,2 +1,2 @@
-# Frontend_HTML_Task1
-HTML and Basic Tags
+# Frontend_HTML_Task3
+Exploring SVG, HTML Canvas, and HTML Media Elements
