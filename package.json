@@ -1,0 +1,11 @@
+{
+  "name": "personal-profile-page",
+  "version": "1.0.0",
+  "description": "A comprehensive HTML webpage for a personal profile page demonstrating various HTML elements",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
